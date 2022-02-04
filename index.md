@@ -1,9 +1,9 @@
 # Docencia<br/>
 
 
-\textbf{\begin{flushright}
-(En clase.) % Juan de Mairena (Antonio Machado) página 81
-\end{flushright}}
+<div align="right">
+(En clase.)
+</div>
 
 M.— ¿Recuerda usted, señor Rodríguez, lo que dijimos de las intuiciones y de los conceptos?
 
