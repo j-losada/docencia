@@ -1,4 +1,4 @@
-# Y cuando os hiervan los sesos avisad...<br/>
+# Y cuando os hiervan los sesos...<br/>
 
 <p>
 <div align="right">
