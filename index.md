@@ -1,8 +1,10 @@
 # Docencia<br/>
 
+<p>
 <div align="right">
 (En clase.)
 </div>
+</p>
 
 <p>
 M.— ¿Recuerda usted, señor Rodríguez, lo que dijimos de las intuiciones y de los conceptos?
