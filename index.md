@@ -25,7 +25,7 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
 <em>Juan de Mairena</em>
 </div>
 </p>
-<hr size="8px" color="black" />
+<hr size="16px" color="black" />
 
 
 
