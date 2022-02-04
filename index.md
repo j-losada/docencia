@@ -19,3 +19,9 @@ M.— ¿Y usted ve claro eso que dice?
 <p>  
 R.— Con una claridad perfectamente tenebrosa, querido maestro.
 </p>
+
+<p>
+<div align="right">
+<em>Juan de Mairena</em>
+</div>
+</p>
