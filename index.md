@@ -34,9 +34,7 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
 
 
 
-
-
-
+<hr size="16px" color="black" />
 
 <p>
 <div align="right">
