@@ -28,10 +28,7 @@ R.— Con una claridad perfectamente tenebrosa, querido maestro.
 <hr size="16px" color="black" />
 
 
-
-
-
-
+- 📎 [curso de Análisis funcional en espacios de Hilbert]
 
 
 <hr size="16px" color="black" />
